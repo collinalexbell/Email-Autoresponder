@@ -1,4 +1,5 @@
 In order to use the software you must:
+
 	-Download & unzip the attached folder
 
 	-CD into the gmail library subfolder in the project and run python setup.py install
