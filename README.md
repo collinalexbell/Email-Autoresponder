@@ -15,7 +15,7 @@ I made an AI auto responder to respond to repetitive questions that appear in my
 
 I had my friend send me a collection of questions that were sent to her:
 
-#1)
+-Email 1:
 
 "Hi,
 
@@ -25,7 +25,7 @@ Please advise.
 
 Sam"
 
-#2)
+-Email 2:
 
 "Greetings,
 
@@ -35,7 +35,7 @@ Please advise.
 
 Tory"
 
-#3)
+-Email 3:
 
 "Hello,
 
@@ -46,7 +46,7 @@ Thank you,
 Sue Jones"
 
 
-#4)
+-Email 4:
 
 "Hi,
 
@@ -55,6 +55,7 @@ As you indicated in a recent communication, where can i find the Corporate Contr
 Thank you,
 
 Paul Jones"
+
 
 
 All I needed to do was respond to just 1 of these emails and then label them all as "annoying" so that  Dagny (yes, I named my AI) can know she needs to learn on them.
