@@ -1,4 +1,4 @@
-I made an AI auto responder to respond to repetitive questions that appear in my mailbox. Since I don't use email very often, I had to ask some of my friends what they would have an AI do if it could read their emails. One of my friends said that since they work in a large corporation, they get a lot of emails asking relatively the same thing. I figured this could be easy to automate responses for. I use Latent Symantic Analysis in the Gensim library to judge the equivalency of questions with the same meaning but different wording. 
+I made an AI auto responder to respond to repetitive questions that appear in my mailbox. Since I don't use email very often, I had to ask some of my friends what they would have an AI do if it could read their emails. One of my friends said that since they work in a large corporation, they get a lot of emails asking relatively the same thing. I figured this could be easy to automate responses for. I use Latent Semantic Analysis in the Gensim library to judge the equivalency of questions with the same meaning but different wording. 
 
 In order to use the software you must:
 
